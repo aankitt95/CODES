@@ -1,0 +1,3 @@
+#define MYICON 100
+#define CUSTICONSM 101
+#define MYBITMAP 102
